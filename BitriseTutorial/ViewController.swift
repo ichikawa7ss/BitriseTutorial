@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
 }
 
+func get(text: String) -> String {
+    return text
+}
